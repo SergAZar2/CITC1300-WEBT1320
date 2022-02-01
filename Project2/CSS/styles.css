@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: rgb(172, 164, 91);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -40,7 +40,7 @@ nav {
 
 nav a {
     display: inline-block;
-    background-color: green;
+    background-color: orange;
     height: 50px;
     width: 175px;
     font-size: 1.5em;
@@ -53,8 +53,8 @@ nav a {
 }
 
 nav a:hover{
-    background-color: linen;
-    color: lightskyblue;
+    background-color: ghostwhite;
+    color: rgb(103, 176, 221);
 }
 
 main {
@@ -62,7 +62,7 @@ main {
     margin: 0 20px 20px 20px auto;
     width: 800px auto;
     padding: 20px;
-    border: 15px solid green;
+    border: 15px solid orange;
 }
 
 main h2 {
@@ -93,7 +93,7 @@ footer {
 
 .active {
     background-color: navy;
-    color: lightgreen;
+    color: white;
 }
 
 .pro_head {
