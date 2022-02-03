@@ -5,11 +5,11 @@ img {
 }
 
 body {
-    background-color: black;
+    background-color: lightgrey;
 }
 
 #container {
-    background-color: gray;
+    background-color: honeydew;
 }
 
 header {
@@ -71,5 +71,6 @@ footer {
     .col img {
         width: 30%;
     }
-    main 
+    main
 }
+
