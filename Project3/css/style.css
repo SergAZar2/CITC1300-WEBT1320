@@ -53,13 +53,17 @@ footer {
     margin: 20px auto;
     }
 
-    main img {
+.col img {
         width: 50%;
     }
 }
 
 
 @media(min-width: 1024px) {
+    #conatiner {
+        width: 75%;
+        border-radius: 20px;
+    }
     #flex {
         display: flex;
     }
@@ -69,8 +73,11 @@ footer {
         margin: 20px;
     }
     .col img {
-        width: 30%;
+        width: 40%;
     }
-    main
+    .main img {
+        display: block;
+        width: 30%;
+        margin: 20px auto;
+    }
 }
-
