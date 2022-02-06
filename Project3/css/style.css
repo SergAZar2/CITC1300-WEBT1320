@@ -5,14 +5,16 @@ img {
 }
 
 body {
-    background-color: lightgrey;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: grey;
 }
 
 #container {
-    background-color: honeydew;
+    background-color: rgb(187, 235, 187);
 }
 
 header {
+    font-family: 'Quintessential', cursive;
     padding: 20px;
     text-align: center;
     border-bottom: 2px solid orange;
@@ -30,7 +32,7 @@ header {
 }
 
 main img {
-    width: 65%;
+    width: 50%;
     margin: 20px auto;
 }
 
