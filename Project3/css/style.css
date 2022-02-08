@@ -6,7 +6,7 @@ img {
 
 body {
     font-family: 'Josefin Sans', sans-serif;
-    background-color: grey;
+    background-color: rgb(241, 78, 78);
 }
 
 #container {
@@ -28,11 +28,11 @@ header {
 }
 
 .col img {
-    width: 65%;
+    width: 70%;
 }
 
 main img {
-    width: 45%;
+    width: 48%;
     margin: 20px auto;
 }
 
@@ -71,7 +71,7 @@ footer {
     }
 
     .col {
-        width: 40%;
+        width: 50%;
         margin: 20px;
     }
     .col img {
