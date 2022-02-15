@@ -76,13 +76,7 @@ main img {
     border-radius: 10px;
 }
 
-footer {
-    padding: 40px;
-    text-align: center;
-    color: green;
-}
-
-.learn_more {
+.Button {
     display: block;
     background-color: green;
     color: tan;
@@ -90,11 +84,24 @@ footer {
     line-height: 40px;
     font-size: 1.2em;
     text-decoration: none;
-    border-color: blue;
+    border-color: black;
+    text-align: center;
+    margin: 10px 0;
+    border-radius: 10px;
 }
 
-.learn_more:hover {
-    background-color: greenyellow;
+.Button:hover {
+    background-color: lawngreen;
+}
+
+footer {
+    padding: 40px;
+    text-align: center;
+    color: green;
+    background-color: honeydew;
+    border-color: black;
+    margin-bottom: 20px;
+    border-radius: 10px;
 }
 
 .mobile_img {
@@ -161,11 +168,14 @@ footer {
         border-radius: 20px;
     }
     footer {
-        background-color: green;
-        color: honeydew;
+        background-color: honeydew;
+        color: green;
+        border: 4px solid black;
+        border-color: black;
+        border-radius: 10px;
     }
     table, td, tr {
-        border: 2px solid green;
+        border: 2px solid black;
         padding: 20px;
     }
     table img {
