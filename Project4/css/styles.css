@@ -72,6 +72,11 @@ main img {
     width: 65%;
 }
 
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
 .col {
     border: 4px solid black;
     background-color: honeydew;
