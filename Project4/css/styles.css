@@ -161,6 +161,9 @@ footer {
         width: 50%;
     }
 
+    #mobile {
+        display: none;
+    }
 /* Desktop Styles */
 
 @media (min-width: 1024px) {
@@ -202,10 +205,6 @@ footer {
     
     .side_img {
         width: 50%;
-    }
-
-    #mobile {
-        display: none;
     }
 
     .desktop {
