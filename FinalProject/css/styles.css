@@ -7,12 +7,14 @@ img {
 }
 
 body {
+    font-family: 'Fjalla One', sans-serif;
     background-color: rgb(46, 44, 44);
     text-align: center;
     color: black;
 }
 
 h2, h3 {
+    font-family: 'Russo One', sans-serif;
     color: black;
     text-align: center;
 }
@@ -34,6 +36,7 @@ header img {
 }
 
 header h1 {
+    font-family: 'Russo One', sans-serif;
     font-size: 1.7em;
     text-align: center;
 }
